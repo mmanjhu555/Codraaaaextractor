@@ -1,1 +1,1 @@
-worker: python -m Extractor
+worker: python main.py
